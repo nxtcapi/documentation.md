@@ -23,7 +23,7 @@ key:MakeUI({
 })
 ```
 
-Find the name u got thru the discord bot for your key system.
+Use the name u choosed thru the discord bot for your key system.
 <img src="https://media.discordapp.net/attachments/1035523592630308927/1040630995684171878/image.png" width="100%" height="100%">
 
 How to use ScriptLink
