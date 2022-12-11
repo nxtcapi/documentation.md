@@ -17,11 +17,11 @@ This is the part you will need to use via ur loader or anything.
 ```lua
 local key = loadstring(game:HttpGet("https://raw.githubusercontent.com/HoyoGey/My-Lua-Project/main/UiLibs/KeySysUiLib.lua"))()
 key:MakeUI({
-  Title = "Ur Title",
-  KeyLinkName = "CocoNigga",
-  DiscordLink = "discord.gg/123123123",
-  ScriptLink = "link"
-  FileKey = "Sex.lua"
+  Title = "Ur Title", --// dont need to explain
+  KeyLinkName = "CocoNigga", --// the link u chose thru the bot.
+  DiscordLink = "discord.gg/123123123", --// replace the numbers by your discord invite
+  ScriptLink = "link" --// this is where u put the raw link to ur source
+  FileKey = "Sex.lua" --// you will need to match this in the source version.
 })
 ```
 
