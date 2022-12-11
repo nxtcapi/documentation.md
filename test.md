@@ -10,7 +10,7 @@ Key Ui Lib Documentation
 Join our discord server https://discord.gg/cn7HAncu55 <img src="https://cdn.discordapp.com/emojis/1038875387826020352.webp?size=96&quality=lossless" width="2%" height="2%">
 
 
-## Eng
+## English
 
 ```lua
 local key = loadstring(game:HttpGet("https://raw.githubusercontent.com/HoyoGey/My-Lua-Project/main/UiLibs/KeySysUiLib.lua"))()
@@ -23,7 +23,7 @@ key:MakeUI({
 })
 ```
 
-How find KeyLinkName
+Find the name u got thru the discord bot for your key system.
 <img src="https://media.discordapp.net/attachments/1035523592630308927/1040630995684171878/image.png" width="100%" height="100%">
 
 How to use ScriptLink
